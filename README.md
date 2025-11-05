@@ -4,7 +4,6 @@
 - 👯 I’m looking to collaborate on cloud-based infrastructure projects.
 - 🤔 I’m looking for help with Agentic AI systems and LLM fine-tuning.
 - 🌱 I’m currently learning AWS services.
-- 💬 Ask me about System Design.
 - ⚡ Fun fact: 73 is the 21st prime number, and its mirror, 37, is the 12th.
 
 ### 🌐 Socials
@@ -42,19 +41,3 @@
 </p>
 
 ---
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dkb73&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</p>
-
----
-
-### ✍️ Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
-</p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
