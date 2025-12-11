@@ -29,6 +29,9 @@
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) 
 
 ---
+<img width="1000" height="200" alt="header_1" src="https://github.com/user-attachments/assets/d465bbf2-91d8-48c2-a784-8c9fc98e673a" />
+
+---
 
 ### 📊 GitHub Stats
 
