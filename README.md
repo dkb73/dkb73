@@ -12,6 +12,10 @@
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhwananbcse@gmail.com)
 
 ---
+
+<img width="1000" height="200" alt="header_1" src="https://github.com/user-attachments/assets/d465bbf2-91d8-48c2-a784-8c9fc98e673a" />
+
+---
 ### 💻 Tech Stack
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -28,8 +32,6 @@
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) 
 
----
-<img width="1000" height="200" alt="header_1" src="https://github.com/user-attachments/assets/d465bbf2-91d8-48c2-a784-8c9fc98e673a" />
 
 ---
 
